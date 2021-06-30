@@ -21,21 +21,34 @@
 
 | Terme technique  | Définition & différence si besoin |
 | - | - |
-| Clés **primaires** vs Clés **étrangères** | |
-| SGBD | |
+| Clés  | L'ensemble constitué d'une **clé primaire** et d'une **clé étrangère** sert à établir des relations entre tables.  |
+| Clés **primaires** |  Une clé primaire est **le champs qui permet d'identifier de manière unique un enregistrement dans une table.** Souvent elle se nomme "id" et c’est un champ SERIAL (un entier auto incrémenté par la bdd). |
+| Clés **étrangères** |les clés étrangères, dans une base de données relationnelle, **permettent de gérer des relations entre plusieurs tables et garantissent l'intégrité référentielle entre deux tables.** Une clé étrangère de ma table A' se réfère à la clé primaire de la table A. Seule une clé primaire peut être référencée par une clé étrangère. Ainsi, les clés étrangères ont pour fonction la vérification de l'intégrité de la base. |
+| SGBD | Un *Système de Gestion de Base de Données* est **un logiciel qui permet de stocker des informations dans une base de données. Il permet de lire, écrire, modifier, trier, transformer ou même imprimer les données qui sont contenus dans la base de données.** Parmi les logiciels : systèmes libres (MySQL, PostgreSQL...), systèmes propriétaires (Oracle Database, Microsoft SQL Server...), embarqués ( SQLite...), NoSQL (Cassandra, Redis, MongoDB...), autres ( Access, OpenOffice.org Base, Neo4j...) |
+| SGBDR | Un *Système de Gestion de Base de Données Relationnelle* est un logiciel standard qui repose sur les principes du modèle relationnel. Un SGBDR propose les trois principales fonctions suivantes : la définition des données sous forme de relations ; la manipulation des données par un langage déclaratif ; l’administration des données.  |
+| MCD | *modèle conceptuel de données*, c'est **une représentation logique de l'organisation des informations et de leurs relations.** (méthode Merise). But: identifier les différentes entités et leurs relations ![image](https://user-images.githubusercontent.com/75088424/123967158-577cbd00-d9b6-11eb-9905-1737c8ba10aa.png) |
+| MLD | *modèle logique (relationnel) de données*, la **traduction sous forme de relations du MCD.** But: identifier les différentes entités et leurs relations ![image](https://user-images.githubusercontent.com/75088424/123970321-500ae300-d9b9-11eb-8e2e-60c99f842e04.png)|
+| MPD | *modèle Physique de données*, est la traduction du MLD dans le SGBDR choisi en tenant compte des contraintes de ce dernier. Deux représentations: SQL (create table) ou graphique(tableau...). Il n'y a pas de représentation spécifique |
+| create table | La commande CREATE TABLE permet de créer une table en SQL. La création d’une table sert à définir les colonnes et le type de données qui seront contenus dans chacun des colonne (entier, chaîne de caractères, date, valeur binaire …). ![image](https://user-images.githubusercontent.com/75088424/123970135-28b41600-d9b9-11eb-8906-60d06afe990b.png)|
 
 ### BONNES PRATIQUES
 
 | Terme technique  | Définition & différence si besoin |
 | - | - |
-| Gestion de version |  |
-| Tests automatisés |  |
+| Gestion de version | La gestion de versions consiste à **gérer l'ensemble des versions d'un ou plusieurs fichiers.**  Elle est appuiée par un outil (logiciel) permettant d’enregistrer, de suivre et de gérer plusieurs versions d’un fichier ou d’un code source. Il permet d’établir un historique de toutes les modifications effectuées sur un élément, pour ainsi avoir la possibilité de récupérer une version antérieure selon la date et l’heure de la sauvegarde, et ce en cas d’erreur ou de problème sur une version actuelle. Il permet aussi un meilleur travail collaboratif. ex: dépots Git (hébergés sur gitHub) |
+| Test | Un test c'est **du code qui exécute du code afin de vérifier si le résultat obtenu est bien celui attendu.** Ca sert à vérifier que le code fonctionne comme attendu pour tous les cas, découvrir les bugs le plus tôt possible, stabiliser, empêcher les régressions, faire évoluer et améliorer le code, améliorer le code petit à petit (voit un bug, écrit un test reproduit le bug, corrige le bug, ajoute nu test pour s'assurer que le bug ne revient pas) |
+| Test unitaire | **On teste une unité de code, une partie précise du code** (une fonction, un composant). Le principe est de tester pendant que l'on code ou dès que le fragment de code est fonctionnel. L'idée étant de limiter les régressions. On utilise un test runner (Mocha...) et un utilitaire pour les assertions (Chai...) |
+| Test d'intégration | **On test l'assemblage de plusieurs parties de code**, par exemple back-end + front-end |
+| Test système / fonctionnel | **on teste la conformité du système.** Ex: test UI / IHM (intéraction homme machine), test de performance / benchmarck, test de charge... |
+| Test d'acceptation | **On teste le projet avec le client** pour s'assurer que tout soit conforme aux attentes / exigences |
+| TDD | Test driven dévelopment (= développement piloté par les tests), **les tests sont écrits avant le code et le code devra s'y confronter.** Avantages: à l'instant on sait que le code fonctionne, pas de code non testé dans l'application finie, on écrit uniquement le code dont on a besoin pour la fonctionnalité en cours, on définit les contours de l'application à l'avance en écrivant le test, maintenance facilitée car pas de code inutile. Inconvénients: impression de perte de temps, processus de développement peut paraitre pénible, spécifications pas toujours assez claires pour écrire le test avant.|
 
 ### CONNAISSANCES DE BASE
 
 | Terme technique  | Définition & différence si besoin |
 | - | - |
-| Front-end vs Back-end| |
+| Front-end | les Mickey qui pensent qu'ils sont mieux que les autres |
+| Back-end | les Mickey qui pensent qu'ils sont mieux que les autres |
 | Back-office |  |
 | IDE | |
 | CMS vs Frameworks vs Libraries | |
