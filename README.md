@@ -47,9 +47,10 @@
 
 | Terme technique  | Définition & différence si besoin |
 | - | - |
-| Front-end | les Mickey qui pensent qu'ils sont mieux que les autres |
-| Back-end | les Mickey qui pensent qu'ils sont mieux que les autres |
-| Back-office |  |
+| Front-end | ~~Les Mickey qui pensent qu'ils sont mieux que les autres~~ Le Front-end désigne **les éléments d’un site que l’on voit à l’écran et avec lesquels on peut interagir depuis un navigateur.** il s'agit des éléments composés de HTML, CSS et de Javascript, contrôlés par le navigateur web de l'utilisateur. |
+| Back-end | ~~Les Mickey qui pensent qu'ils sont mieux que les autres~~ Le back end désigne **ce qui n'est accessible que par les administrateurs et les utilisateurs ayant des droits spécifiques et qui permet de gérer les contenus et les paramètres de votre site. Ce domaine comprends la gestion des bases de données, la logique de l’application, les API etc…** |
+| Back-office | Appliqué aux sites web dynamiques (bien souvent un CMS), le terme back office désigne **l’interface permettant de gérer le contenu du site.** Le back-office est la coulisse où travaillent les administrateurs de site web, les webmasters. |
+| Front-end Vs back end | ![image](https://user-images.githubusercontent.com/75088424/124092517-3d46eb80-da57-11eb-978d-c94e1fd8ec7d.png) |
 | IDE | |
 | CMS vs Frameworks vs Libraries | |
 | Dépendance |  |
