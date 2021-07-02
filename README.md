@@ -52,6 +52,12 @@
 | Back-office | Appliqué aux sites web dynamiques (bien souvent un CMS), le terme back office désigne **l’interface permettant de gérer le contenu du site.** Le back-office est la coulisse où travaillent les administrateurs de site web, les webmasters. |
 | Front-end Vs back end | ![image](https://user-images.githubusercontent.com/75088424/124092517-3d46eb80-da57-11eb-978d-c94e1fd8ec7d.png) |
 | IDE | |
+| Module |  |
+| Package | |
+| Frameworks | Cadre de travail. Ensemble de classes et de fonctions (dans des modules?) qu'on a à disposition pour permettre d'avancer plus vite dans les développements (évite de les code nous même). Ex: Express.js, Angular, Aurelia, meteor |
+| Library - Bibliothèque | Ensemble de classes et de fonctions (dans des modules?) qu'on a à disposition pour permettre d'avancer plus vite dans les développements (évite de les code nous même). Ex: React, Moments.js, jQuery |
+| Frameworks vs Library | **Qui utilise/ controle qui?** La Library, c'est notre code qui appelle / utilise la library. Ex: Dans le dév de mon app, à un moment, pour gérer les dates, j'appelle des fonctions de la Library moment.js. Ex: Dans react, j'appelle Router (à vérifier). Le framework, il appelle / utilise notre code quand il juge que c'est le moment. Il structure notre appli et impose son architecture. "le framework est l'application" Par ex: express.js met tout en place pour écouter les requêtes HTTP et y répondre quand on écrit (req, res) (à vérifier)  |
+| CMS | |
 | CMS vs Frameworks vs Libraries | |
 | Dépendance |  |
 | Token |  |
