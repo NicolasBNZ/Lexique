@@ -100,7 +100,8 @@
 | Terme technique  | Définition & différence si besoin |
 | - | - |
 | POO |  |
-| Classe |  |
+| Classe | (à affiner) Une classe définit toutes les propriétés qui caractérisent un certain ensemble d'objets. Une classe est abstraite par opposition à un membre particulier d'un ensemble d'objets qu'elle décrit. Par exemple, la classe Employee pourrait représenter l'ensemble de tous les employés. |
+| instance | (à affiner) Le terme instance a une signification technique spécifique dans les langages basés sur les classes. Dans ces langages, une instance est une instanciation individuelle d'une classe et est fondamentalement différente d'une classe. En JavaScript, « instance » n'a pas cette signification technique car **JavaScript ne fait pas cette différence entre classes et instances. Toutefois, en parlant de JavaScript, le terme « instance » peut être utilisé de manière informelle pour désigner un objet créé à l'aide d'une fonction de construction particulière.** De façon informelle on peut dire: La class c’est un moule pour le gâteau, l’instance c’est quand je fais un gâteau |
 | Héritage |  |
 
 ### REQUÊTE 
