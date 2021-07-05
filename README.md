@@ -64,7 +64,7 @@
 | Types de données |  |
 | Client vs Serveur |  **Un internaute connecté au réseau via son ordinateur et un navigateur Web est le client, le serveur est constitué par le ou les ordinateurs contenant les applications qui fournissent les pages demandées.** La consultation de pages sur un site Web fonctionne sur une architecture client–serveur. C'est le protocole de communication HTTP (ou XML socket) qui est utilisé. ![image](https://user-images.githubusercontent.com/75088424/124482653-cb99d500-dda9-11eb-9756-95033f410252.png)|
 | Chemin d'accès absolu (langage côté serveur) | Il **se rapporte toujours au dossier parent du serveur (=racine).** On le reconnait par le fait que ce chemin d’accès commence toujours par un slash. Exemple : /dossier/page.php |
-| Chemin d'accès relatif | **La cible va être cherchée à partir du fichier exécuté.**  Exemple: dossier/page.php ou ./dossier/page.php ou ../dossier/page.php |
+| Chemin d'accès relatif (langage côté serveur) | **La cible va être cherchée à partir du fichier exécuté.**  Exemple: dossier/page.php ou ./dossier/page.php ou ../dossier/page.php |
 | Callback |  |
 | JSON |  |
 | Fonction vs Méthode |  |
