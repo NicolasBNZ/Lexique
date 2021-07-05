@@ -51,15 +51,15 @@
 | Back-end | ~~Les Mickey qui pensent qu'ils sont mieux que les autres~~ Le back end désigne **ce qui n'est accessible que par les administrateurs et les utilisateurs ayant des droits spécifiques et qui permet de gérer les contenus et les paramètres de votre site. Ce domaine comprends la gestion des bases de données, la logique de l’application, les API etc…** |
 | Back-office | Appliqué aux sites web dynamiques (bien souvent un CMS), le terme back office désigne **l’interface permettant de gérer le contenu du site.** Le back-office est la coulisse où travaillent les administrateurs de site web, les webmasters. |
 | Front-end Vs back end | ![image](https://user-images.githubusercontent.com/75088424/124092517-3d46eb80-da57-11eb-978d-c94e1fd8ec7d.png) |
-| IDE | |
+| IDE |Integrated Development Environment (=environnement de développement intégré) est une **logiciel de création d'applications sur mesure pour les développeurs regroupant un environnement de programmation complet**. Un IDE se compose généralement d'un éditeur de code, d'un compilateur, d'un débogueur et d'un générateur d'interface graphique. Ex: Visual Studio, Aclipse, Aptana... |
 | Module |  |
 | Package | |
 | Frameworks | Cadre de travail. Ensemble de classes et de fonctions (dans des modules?) qu'on a à disposition pour permettre d'avancer plus vite dans les développements (évite de les code nous même). Ex: Express.js, Angular, Aurelia, meteor |
 | Library - Bibliothèque | Ensemble de classes et de fonctions (dans des modules?) qu'on a à disposition pour permettre d'avancer plus vite dans les développements (évite de les code nous même). Ex: React, Moments.js, jQuery |
 | Frameworks vs Library | **Qui utilise/ controle qui?** La Library, c'est notre code qui appelle / utilise la library. Ex: Dans le dév de mon app, à un moment, pour gérer les dates, j'appelle des fonctions de la Library moment.js. Ex: Dans react, j'appelle Router (à vérifier). Le framework, il appelle / utilise notre code quand il juge que c'est le moment. Il structure notre appli et impose son architecture. "le framework est l'application" Par ex: express.js met tout en place pour écouter les requêtes HTTP et y répondre quand on écrit (req, res) (à vérifier)  |
-| CMS | |
-| CMS vs Frameworks vs Libraries | |
-| Dépendance |  |
+| CMS | *content Management System* ou *système de gestion de contenu* (SGC), c’est un **logiciel destiné à concevoir et à mettre à jour de manière dynamique des sites Web ou des applications multimédias sans avoir besoin de toucher au code source.** Il s’agit d’une couche intermédiaire entre la base de données et l’interface utilisateur. Les non techs peuvent nourrir le site. Ex: wordpress, drupal, wix... |
+| Dependencies | **Packages dont votre projet a besoin pour pouvoir travailler en production.** Les packages sont téléchargés (npm ou yarn) depuis la liste dans package.json: ![image](https://user-images.githubusercontent.com/75088424/124470046-6212ca00-dd9b-11eb-8492-7ed3d6361e75.png) |
+| DevDependencies  | **Packages qui ne sont nécessaires que pour le développement et les tests locaux. (et pas en production)** comme des programmes ou codes utilisés pour compiler, transpiler etc... |
 | Token |  |
 | Types de données |  |
 | Client vs Serveur |  |
