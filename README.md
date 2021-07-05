@@ -63,7 +63,8 @@
 | Token | Jeton, désigne un **"identificateur, un dispositif matériel ou logiciel nécessaire à un utilisateur pour accéder à une application ou à un système réseau de manière plus sécurisée.**  La **tokenisation** est le procédé permettant de remplacer une donnée critique par un élément équivalent qui n’aura aucune valeur intrinsèque ou signification exploitable une fois sortie du système. Un token doit être irréversible et généré de manière aléatoire.![image](https://user-images.githubusercontent.com/75088424/124481045-2a5e4f00-dda8-11eb-88d5-8c90882721a9.png) |
 | Types de données |  |
 | Client vs Serveur |  **Un internaute connecté au réseau via son ordinateur et un navigateur Web est le client, le serveur est constitué par le ou les ordinateurs contenant les applications qui fournissent les pages demandées.** La consultation de pages sur un site Web fonctionne sur une architecture client–serveur. C'est le protocole de communication HTTP (ou XML socket) qui est utilisé. ![image](https://user-images.githubusercontent.com/75088424/124482653-cb99d500-dda9-11eb-9756-95033f410252.png)|
-| Absolu vs relatif |  |
+| Chemin d'accès absolu (langage côté serveur) | Il **se rapporte toujours au dossier parent du serveur (=racine).** On le reconnait par le fait que ce chemin d’accès commence toujours par un slash. Exemple : /dossier/page.php |
+| Chemin d'accès relatif | **La cible va être cherchée à partir du fichier exécuté.**  Exemple: dossier/page.php ou ./dossier/page.php ou ../dossier/page.php |
 | Callback |  |
 | JSON |  |
 | Fonction vs Méthode |  |
