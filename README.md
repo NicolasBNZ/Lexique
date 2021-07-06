@@ -114,7 +114,7 @@
 | - | - |
 | XHR |  |
 | Requête HTTP  | |
-| Paramètres vs Arguments  |  |
+| Paramètres vs Arguments  | ![image](https://user-images.githubusercontent.com/75088424/124640469-bd24e980-de8d-11eb-9eaf-086e7784fc60.png)  |
 | Paramètres d'URL |  |
 | GET vs POST |  |
 | Corps de la requête |  |
