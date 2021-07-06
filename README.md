@@ -76,9 +76,9 @@
 | Abstraction de données | Permet d'écrire des programmes plus généraux, facile à lier et à vérifier. Puis de **gérer des informations compliquées en masquant la complexité derrière un nom de variable.** Ex: une variable pokemon avec à l'intérieur le nom, les attaques... **On utilise la variable et pas les infos en littéral** |
 | Abstraction procédurale | Permet de masquer les détails inutiles, de **regrouper à un seul endroit les tâches répétitives,** de rendre le code plus facile à lire, tester et faire évoluer. Ex: une fonction qui calcule un racine carré qu'on encapsule dans un composant et on appelle que la fonction de calcul. Le détail de l'opération est caché, on l'appelle quand on en a besoin et on ne la modifie qu'à un seul endroit  |
 | Scope / Portée | **Le scope d’un objet est la portion de code dans laquelle une variable peut exister et maintenir une valeur qui lui aura été préalablement affectée.** En effet, en fonction de l'emplacement où vous déclarez votre variable et du type de variable (var, let, const), la portée de votre scope javascript peut être différente. https://cdiese.fr/le-scope-des-variables-en-javascript/#javascript_scope-var_let_const |
-| Let et const | const et let permettent de déclarer une variable dans le scope d’un bloc de code. let autorise des affectations d’une nouvelle valeur à une variable. const interdit de nouvelles affectations. |
-| Itération |  |
-| Affectation |  |
+| Let et const | *const* et *let* permettent de déclarer une variable dans le scope d’un bloc de code. *let* autorise des affectations d’une nouvelle valeur à une variable. *const* interdit de nouvelles affectations. |
+| Itération | (= **répétition d'un précessus**) **Procédé de calcul répétitif qui boucle jusqu'à ce qu'une condition particulière soit remplie.** Répétition d'un calcul, d'une opération, d'un raisonnement. Le processus d'itération est employé fréquemment en algorithmique. Ex: **boucle for... of**, "à chaque itération". |
+| Affectation | On appelle affectation le fait de donner une certaine valeur à une variable. **Affecter une valeur à une variable** signifie écrire cette valeur dans la case mémoire représentée par la variable. Pour réaliser une affectation en JavaScript on utilise le signe =. Ex var chemise = 4 |
 
 ### FRONT
 
