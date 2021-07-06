@@ -93,7 +93,7 @@
 | DOM - Modèle | Un modèle sert à représenter quelque chose, comme le plan d'une ville. Le DOM représente le document qui se trouve dans le navigateur. |
 | DOM - Objet | un objet est un conteneur qui comporte des propriétés et des méthodes – qui sont des variables et des actions concernant ce qu'il représente. Les objets du DOM peuvent représenter une fenêtre, un document, une phrase, un style… |
 | DOM - Document | Le DOM concerne un document, tel qu'une page web affichée dans un navigateur. Une page web commence par une balise *!DOCTYPE* suivi de la balise <html> dans laquelle se trouve le reste du document. |
-| Media Queries |  |
+| Media Queries | Media queries est un module CSS3 permettant d'adapter le contenu d'une page web aux caractéristiques de l'appareil de l'utilisateur. |
 | Responsive |  |
 | Évènement |  |
 
