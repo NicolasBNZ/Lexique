@@ -84,7 +84,9 @@
 
 | Terme technique  | Définition & différence si besoin |
 | - | - |
-| Interface utilisateur web **dynamique** vs **statique** | |
+| Interface utilisateur web **statique** |  On entend par page statique, non pas une page sans mouvements ou sans animations, mais **une page visible telle qu'elle a été conçue.** Ces pages peuvent présenter toute forme de contenu, images, musique, vidéo etc... mais **elles affichent exactement les mêmes informations chaque fois que quelqu’un les visite. Elles ne changent pas et c'est en ce sens qu'elles sont statiques.** Pour qu'elles changent il faut modifier le code source. HTML + CSS|
+| Interface utilisateur web **dynamique** | Les pages dynamiques **permettent de présenter un contenu différent selon l'interaction avec le visiteur. Cela à partir du même fichier de code source.** Les pages sont alors construites "à la volée". Le contenu est issu d'une base de données puis mis en page en temps réel. C'est le cas par exemple d'un site e-commerce: présentation des articles par thèmes, prix etc... Ou des blogs et des forums où les visiteurs peuvent participer au contenu du site. JavaScript|
+| Interface utilisateur web **dynamique** vs **statique** | L'utilisation des pages dynamiques est plus souple pour l'évolution du site mais nécessite plus de temps de travail pour la programmation. En opposition, les pages statiques sont plus "figées" mais plus simples à réaliser. Un site peut être composé de pages statiques et de pages dynamiques. Pour savoir quel type de page il faut,  il convient de déterminer le rôle de la page. Si l’interaction de cette page avec l’internaute est importante (page catalogue mais aussi page de blog où il y a présence de commentaires) il faudra opter pour une page dynamique. |
 | Préprocesseur |  |
 | Accessibilité |  |
 | DOM |  |
