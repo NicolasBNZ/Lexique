@@ -94,7 +94,7 @@
 | DOM - Objet | un objet est un conteneur qui comporte des propriétés et des méthodes – qui sont des variables et des actions concernant ce qu'il représente. Les objets du DOM peuvent représenter une fenêtre, un document, une phrase, un style… |
 | DOM - Document | Le DOM concerne un document, tel qu'une page web affichée dans un navigateur. Une page web commence par une balise *!DOCTYPE* suivi de la balise <html> dans laquelle se trouve le reste du document. |
 | Media Queries | Les requêtes média (media queries) permettent de **modifier l'apparence d'un site ou d'une application en fonction du type d'appareil (impression ou écran par exemple) et de ses caractéristiques (la résolution d'écran ou la largeur de la zone d'affichage (viewport) par exemple).** Avantages: gain de temps, rotation portrait / paysage facilitée, charger des styles CSS différents, atteindre un nombre maximum d’utilisateurs (car responsive)... |
-| Responsive (web design) |  |
+| (un site) responsive | **Un site responsive est un site qui est conçu et développé (le responsive web design) de façon à pouvoir s'adapter à toutes les résolutions d'écran.** C'est donc un seul et même site qui peut être consulté sur ordinateur, sur smartphone ou sur tablette.  |
 | Évènement |  |
 
 ### MÉTHODOLOGIE
