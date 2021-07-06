@@ -72,7 +72,8 @@
 | Variable vs Propriété |  |
 | Variable vs Constante | **Une constante *const* est similaire à une variable *var* au sens où c’est également un conteneur pour une valeur.** Cependant, à la différence des variables, on ne va **pas pouvoir modifier la valeur d’une constante.** En effet, une fois qu’une valeur est attribuée à une constante, celle-ci est attribuée de façon définitive et ne va pas pouvoir être modifiée. C’est d’ailleurs de là que les constantes portent leur nom : car leur valeur est constante. Les constantes vont être très utiles dans le cadre d’un script qui va réutiliser souvent la même valeur mais qui doit toujours utiliser cette valeur exactement. Dans ce cas-là, **plutôt que de réécrire la valeur à chaque fois, nous allons stocker la valeur dans une constante et utiliser la constante.** Dans ce cas-là, utiliser une constante va rendre notre script plus clair car on pourra rapidement identifier la valeur utilisée et également plus facilement maintenable car dans le cas où l’on doive modifier le script et cette valeur en particulier un jour, on n’aura alors qu’à modifier la constante plutôt que de modifier toutes les occurrences de la valeur dans le script. **Les constantes font partie de la portée du bloc (comme les variables définies avec let).** **La portée d'une variable déclarée avec var est le contexte d'exécution courant, c'est-à-dire : la fonction qui contient la déclaration ou le contexte global si la variable est déclarée en dehors de toute fonction.** |
 | Handler | "gestionnaire", Il s'agit d'un terme très générique. **Une fonction / methode qui est déclenchée par un événement spécifique,** comme un message entrant, une exception levée, un signal envoyé à un processus, une demande d'entrée/sortie réseau ou un clic de souris sur un élément de l'interface utilisateur. ex: element.addEventListener('type_d_event', *fonctionHandler* ); |
-| Abstraction |  |
+| Abstraction | Est une représentation simplifié qui se limite aux aspects utiles. appliqu" 
+Dans le contexte orienté objet, l'abstraction est un mécanisme, ou une pratique, servant à réduire le code d'un niveau de détail. Autrement dit, l'abstraction permet de regrouper un certain nombre de classes selon des caractéristiques communes. |
 | Scope / Portée |  |
 | Itération |  |
 | Affectation |  |
@@ -94,6 +95,7 @@
 | Terme technique  | Définition & différence si besoin |
 | - | - |
 | SCRUM | |
+| backlog  |Le backlog est **une liste de tâches priorisées définissant les caractéristiques d’un produit.** Il est un des éléments fondamentaux de la méthodologie Scrum. Il s’agit de l’outil de travail principal du Product Owner qui se charge de recueillir les besoins auprès des parties prenantes et de les transformer en liste de fonctionnalités prêtes à être développées par l’équipe de développement. Communément **on peut formaliser ce items sous forme de *Users Stories* ** |
 
 ### POO 
 
