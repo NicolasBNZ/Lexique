@@ -97,7 +97,7 @@
 | Terme technique  | Définition & différence si besoin |
 | - | - |
 | SCRUM | |
-| backlog  |Le backlog est **une liste de tâches priorisées définissant les caractéristiques d’un produit.** Il est un des éléments fondamentaux de la méthodologie Scrum. Il s’agit de l’outil de travail principal du Product Owner qui se charge de recueillir les besoins auprès des parties prenantes et de les transformer en liste de fonctionnalités prêtes à être développées par l’équipe de développement. Communément **on peut formaliser ce items sous forme de *Users Stories* ** |
+| backlog  |Le backlog est **une liste de tâches priorisées définissant les caractéristiques d’un produit.** Il est un des éléments fondamentaux de la méthodologie Scrum. Il s’agit de l’outil de travail principal du Product Owner qui se charge de recueillir les besoins auprès des parties prenantes et de les transformer en liste de fonctionnalités prêtes à être développées par l’équipe de développement. Communément **on peut formaliser ce items sous forme de *Users Stories*** |
 
 ### POO 
 
