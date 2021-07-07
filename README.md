@@ -119,7 +119,7 @@
 
 | Terme technique  | Définition & différence si besoin |
 | - | - |
-| XHR |  |
+| XHR - old school | **L'objet *XMLHttpRequest* (XHR) permet d’envoyer des requêtes http vers le serveur et de recevoir des réponses (en XML, JSON, HTML, texte), pour ensuite mettre à jour une partie de la page web,** cet échange de données se réalise sans jamais avoir à recharger la page Web. Cela permet à une page web d'être mise à jour sans perturber les actions de l'utilisateur. Une fois l’objet XMLHttpRequest a été créé, il est géré par le moteur JavaScript du navigateur. XMLHttpRequest est beaucoup utilisé par l'approche AJAX. L'avantage principal est dans le côté asynchrone (La page entière ne doit plus être rechargée en totalité lorsqu'une partie doit changer, ce qui entraîne un gain de temps et une meilleure interaction avec le serveur et donc le client.) |
 | Requête HTTP  | |
 | Paramètres vs Arguments  | ![image](https://user-images.githubusercontent.com/75088424/124640469-bd24e980-de8d-11eb-9eaf-086e7784fc60.png)  |
 | Paramètres d'URL |  |
