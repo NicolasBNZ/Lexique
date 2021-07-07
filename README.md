@@ -134,7 +134,7 @@
 | Terme technique  | Définition & différence si besoin |
 | - | - |
 | OWASP | *Open Web Application Security Project* est **une communauté en ligne travaillant sur la sécurité des applications Web.** Sa philosophie est d'être à la fois libre et ouverte à tous. Elle a pour vocation de **publier des recommandations de sécurisation Web et de proposer aux internautes, administrateurs et entreprises des méthodes et outils de référence permettant de contrôler le niveau de sécurisation de ses applications Web.** |
-| Top Ten OWASP | Une liste des **dix risques de sécurité applicatifs Web les plus critiques**. Ce classement fait référence aujourd'hui dans le domaine de la sécurité. par ordre de dangerosité : 1-*L’injection* (SQL, shell...), 2-*Broken Authentification and Session Management* (risque de casser la gestion de l’authentification et de la session: vol de session, récupération de mots de passe), 3-*Cross-Site Scripting* (XSS), 4-*Insecure Direct Object References* (failles de sécurité des ID de données visualisées -> mise en place un contrôle d’accès aux données=), (...) 8- *Cross-Site Request Forgery* (CSRF), etc... https://owasp.org/www-project-top-ten/ |
+| Top Ten OWASP | Une liste des **dix risques de sécurité applicatifs Web les plus critiques**. Ce classement fait référence aujourd'hui dans le domaine de la sécurité. par ordre de dangerosité : 1-*L’injection* (SQL, shell...), 2-*Broken Authentification and Session Management* (risque de casser la gestion de l’authentification et de la session: vol de session, récupération de mots de passe), 3-*Cross-Site Scripting* (XSS), 4-*Insecure Direct Object References* (failles de sécurité des ID de données visualisées -> mise en place un contrôle d’accès aux données), (...) 8- *Cross-Site Request Forgery* (CSRF), etc... https://owasp.org/www-project-top-ten/ |
 | XSS | *Cross-Site Scripting*, les failles XSS **permettent aux attaquants d'injecter des scripts côté client dans l'application,** par exemple, pour rediriger les utilisateurs vers des sites Web malveillants. Les failles XSS sont particulièrement répandues parmi les failles de sécurités Web. |
 | CSRF / XSRF / sea-surf  | *Cross-Site Request Forgery* (=Contrefaçon de requête intersites ) est un **type de vulnérabilité des services d'authentification web.** Les criminels prennent le contrôle d'une session autorisée par l’utilisateur (Session Riding) et peuvent ainsi exécuter des actions malveillantes. Celles-ci passent par le biais de requêtes HTTP. https://www.ionos.fr/digitalguide/serveur/securite/cross-site-request-forgery/|
 
@@ -142,13 +142,13 @@
 
 | Terme technique  | Définition & différence si besoin |
 | - | - |
-| Référencement **organique** vs **payant** | |
+| Référencement **organique / SEO** vs **payant / SEA** | *Search Engine Optimization* vs *Search Engine Advertising* Le SEO et le SEA possèdent tous les deux des avantages et des inconvénients, les opposer est un exercice à réserver au cas par cas. L’idéal étant de combiner le référencement payant et le référencement naturel afin de bénéficier de leurs avantages respectifs et de lisser leurs inconvénients. ![image](https://user-images.githubusercontent.com/75088424/124794841-bbbbf580-df4f-11eb-978f-045814046896.png) ![image](https://user-images.githubusercontent.com/75088424/124796057-05f1a680-df51-11eb-8780-1883cb1106af.png) |
 
 ### SYSTÈME & MISE EN LIGNE
 
 | Terme technique  | Définition & différence si besoin |
 | - | - |
-| Server : **machine** vs **logiciel** |  |
+| Server : **machine** vs **logiciel** | Par abus de langage, on dit souvent qu'une machine est un serveur. Mais **un serveur web (Apache, Nginx, Caddy…) est un logiciel, installé sur une machine. Il attend la requête, la reçoit, fabrique une réponse et la renvoie au client** ![image](https://user-images.githubusercontent.com/75088424/124797513-9f6d8800-df52-11eb-8679-1bff834bd854.png) |
 | Déploiement |  |
 | LAMP/WAMP/MAMP |  |
 | Recette |  |
