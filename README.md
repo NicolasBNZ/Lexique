@@ -148,8 +148,8 @@
 
 | Terme technique  | Définition & différence si besoin |
 | - | - |
-| Server : **machine** vs **logiciel** | Par abus de langage, on dit souvent qu'une machine est un serveur. Mais **un serveur web (Apache, Nginx, Caddy…) est un logiciel, installé sur une machine. Il attend la requête, la reçoit, fabrique une réponse et la renvoie au client** ![image](https://user-images.githubusercontent.com/75088424/124797513-9f6d8800-df52-11eb-8679-1bff834bd854.png) |
-| Déploiement |  |
-| LAMP/WAMP/MAMP |  |
+| Serveur : **machine** vs **logiciel** | Par abus de langage, on dit souvent qu'une machine est un serveur. Mais **un serveur web (Apache, Nginx, Caddy…) est un logiciel, installé sur une machine. Il attend la requête, la reçoit, fabrique une réponse et la renvoie au client** ![image](https://user-images.githubusercontent.com/75088424/124797513-9f6d8800-df52-11eb-8679-1bff834bd854.png) |
+| Déploiement | Déployer votre application signifie **la placer sur un serveur Web afin qu'elle puisse être utilisée via l'Internet ou un intranet.** Celà signifie la rendre prête à être utilisée (par ses clients). Ceci est réalisé en structurant les fichiers qui constituent l'application web d'une certaine manière standard et en l'installant (généralement, en la déplaçant) à un certain emplacement du serveur |
+| LAMP/WAMP/MAMP | Ce sont **des acronymes désignant un ensemble de logiciels libres permettant de construire des serveurs de sites web.** L'original est LAMP. *LAMP* = Linux, le système d'exploitation + Apache,  le serveur Web +  MySQL ou MariaDB, le serveur de base de données + PHP, Perl ou Python, les langages de script. *WAMP* = Windows + Apache+ MySQL + PHP (Perl ou Python). *MAMP* = Macintosh + Apache + MySQL + PHP (Perl ou Python). |
 | Recette |  |
 | Préproduction |  |
