@@ -103,7 +103,7 @@
 
 | Terme technique  | Définition & différence si besoin |
 | - | - |
-| SCRUM | La méthode SCRUM fournit un cadre de **gestion de projet** avec des rôles, des réunions, des artefacts, des règles de gestion et un cycle itératif de développement. Le cadre de travail Scrum se veut **simple, transparent et pragmatique.** L'approche Scrum suit les principes de la méthodologie Agile, c'est-à-dire **l'implication et la participation active du client tout au long du projet.** |
+| SCRUM | La méthode SCRUM fournit **un cadre de gestion de projet** avec des rôles, des réunions, des artefacts, des règles de gestion et un cycle itératif de développement. Le cadre de travail Scrum se veut **simple, transparent et pragmatique.** L'approche Scrum suit les principes de la méthodologie Agile, c'est-à-dire **l'implication et la participation active du client tout au long du projet.** |
 | backlog  |Le backlog est **une liste de tâches priorisées définissant les caractéristiques d’un produit.** Il est un des éléments fondamentaux de la méthodologie Scrum. Il s’agit de l’outil de travail principal du Product Owner qui se charge de recueillir les besoins auprès des parties prenantes et de les transformer en liste de fonctionnalités prêtes à être développées par l’équipe de développement. Communément **on peut formaliser ce items sous forme de *Users Stories*** |
 
 ### POO 
