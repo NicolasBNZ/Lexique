@@ -99,6 +99,13 @@
 | (un site) responsive | **Un site responsive est un site qui est conçu et développé (le responsive web design) de façon à pouvoir s'adapter à toutes les résolutions d'écran.** C'est donc un seul et même site qui peut être consulté sur ordinateur, sur smartphone ou sur tablette.  |
 | Évènement | Un événement est **une réaction à une action émise par l'utilisateur sur le navigateur,** comme par exemple afficher ou cacher du texte suite à un **clic** d’un utilisateur sur un élément, changer la taille d’un texte lors du **passage de la souris** d’un utilisateur sur un élément... Les évènements et leur prise en charge sont l’un des mécanismes principaux du JavaScript qui vont nous permettre d’ajouter un vrai dynamisme à nos pages Web. ![image](https://user-images.githubusercontent.com/75088424/124657771-3844ca80-dea3-11eb-8163-7cc7d62868f1.png) |
 
+### REACT
+
+| Terme technique  | Définition & différence si besoin |
+| - | - |
+| React | React est **une bibliothèque JavaScript** open-source créée par Facebook pour **construire des interfaces utilisateur complexes et interactives dans les applications Web et mobiles.** **L'objectif principal de React est de créer des composants d'interface utilisateur ; il est souvent considéré comme le "V" (View) d'une architecture "MVC".**|
+| la programmation déclarative | **l’objectif est plus important que le déroulement.** La programmation déclarative est **un paradigme de programmation qui consiste à créer des applications sur la base de composants logiciels indépendants du contexte et ne comportant aucun état interne.** Autrement dit, l'appel d'un de ces composants avec les mêmes arguments produit exactement le même résultat, quel que soit le moment et le contexte de l'appel. En programmation déclarative, **on décrit le quoi, c'est-à-dire le problème.** Par exemple, les pages HTML sont déclaratives car elles décrivent ce que contient une page (texte, titres, paragraphes, etc.) et non comment les afficher (positionnement, couleurs, polices de caractères…).  |
+  
 ### MÉTHODOLOGIE
 
 | Terme technique  | Définition & différence si besoin |
