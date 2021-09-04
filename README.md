@@ -43,6 +43,7 @@
 | Test d'acceptation | **On teste le projet avec le client** pour s'assurer que tout soit conforme aux attentes / exigences |
 | TDD | Test driven dévelopment (= développement piloté par les tests), **les tests sont écrits avant le code et le code devra s'y confronter.** Avantages: à l'instant on sait que le code fonctionne, pas de code non testé dans l'application finie, on écrit uniquement le code dont on a besoin pour la fonctionnalité en cours, on définit les contours de l'application à l'avance en écrivant le test, maintenance facilitée car pas de code inutile. Inconvénients: impression de perte de temps, processus de développement peut paraitre pénible, spécifications pas toujours assez claires pour écrire le test avant.|
 
+
 ### CONNAISSANCES DE BASE
 
 | Terme technique  | Définition & différence si besoin |
@@ -85,6 +86,7 @@
 | Code source | **Version d’un programme que l’humain peut comprendre.** En d’autres termes, les instructions du programme sont rédigées dans un langage de programmation créé et maîtrisé par l’homme. Inversement, le **code exécutable** est la version compilée du code source, qui prend la forme d’une suite de codes binaires compréhensible de l’ordinateur seulement. |
 | Compiler | **Générer le code exécutable d’un programme à partir du code source.** |
 | Intégration  | Consiste à **réunir au sein d’un même système d’information, des parties développées de façon séparées.** L’intégration peut également consister à la tâche effectuée par le développeur Front-End (aussi appelé intégrateur). |
+| refactoring  | (=réusinage) **optimiser un code sans altérer son fonctionnement.** Le refactoring s’appuie sur plusieurs méthodes comme l’encapsulation, le reformatage ou l’extraction. |
 
 ### FRONT
 
