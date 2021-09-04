@@ -88,6 +88,7 @@
 | Intégration  | Consiste à **réunir au sein d’un même système d’information, des parties développées de façon séparées.** L’intégration peut également consister à la tâche effectuée par le développeur Front-End (aussi appelé intégrateur). |
 | refactoring  | (=réusinage) **optimiser un code sans altérer son fonctionnement.** Le refactoring s’appuie sur plusieurs méthodes comme l’encapsulation, le reformatage ou l’extraction. |
 | implémenter  | =mettre en oeuvre, développer, traduire en algorithme, fournir une fonctionnalité  |
+| assertion  |  Proposition que l'on avance comme vraie. |
 
 ### FRONT
 
