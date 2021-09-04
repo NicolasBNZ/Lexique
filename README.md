@@ -89,6 +89,7 @@
 | refactoring  | (=réusinage) **optimiser un code sans altérer son fonctionnement.** Le refactoring s’appuie sur plusieurs méthodes comme l’encapsulation, le reformatage ou l’extraction. |
 | implémenter  | =mettre en oeuvre, développer, traduire en algorithme, fournir une fonctionnalité  |
 | assertion  |  Proposition que l'on avance comme vraie. |
+| Triangulation | Technique qui consiste à remplacer les exemples en dur dans le code (qui correspondent aux tests) par une implémentation plus générique |
 
 ### FRONT
 
