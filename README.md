@@ -30,6 +30,7 @@
 | MLD | *modèle logique (relationnel) de données*, la **traduction sous forme de relations du MCD.** But: identifier les différentes entités et leurs relations ![image](https://user-images.githubusercontent.com/75088424/132949368-63574564-5091-4c4a-86e1-7d485828b223.png)![image](https://user-images.githubusercontent.com/75088424/132949376-3137c3bb-4b1e-4472-8066-ebd8a62b0c83.png) |
 | MPD | *modèle Physique de données*, est la traduction du MLD dans le SGBDR choisi en tenant compte des contraintes de ce dernier. Deux représentations: SQL (create table) ou graphique(tableau...). Il n'y a pas de représentation spécifique ![image](https://user-images.githubusercontent.com/75088424/123970321-500ae300-d9b9-11eb-8e2e-60c99f842e04.png)|
 | create table | La commande CREATE TABLE permet de créer une table en SQL. La création d’une table sert à définir les colonnes et le type de données qui seront contenus dans chacun des colonne (entier, chaîne de caractères, date, valeur binaire …). ![image](https://user-images.githubusercontent.com/75088424/123970135-28b41600-d9b9-11eb-8906-60d06afe990b.png)|
+| Data mapping | est un procédé permettant de **définir au niveau d'un langage de programmation la correspondance entre deux modèles de données.** Utilisation d'un **datamapper.**  |
 
 ### BONNES PRATIQUES
 
