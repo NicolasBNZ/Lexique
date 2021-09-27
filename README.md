@@ -128,6 +128,7 @@
 | SCRUM | La méthode SCRUM fournit **un cadre de gestion de projet** avec des rôles, des réunions, des artefacts, des règles de gestion et un cycle itératif de développement. Le cadre de travail Scrum se veut **simple, transparent et pragmatique.** L'approche Scrum suit les principes de la méthodologie Agile, c'est-à-dire **l'implication et la participation active du client tout au long du projet.** |
 | backlog  |Le backlog est **une liste de tâches priorisées définissant les caractéristiques d’un produit.** Il est un des éléments fondamentaux de la méthodologie Scrum. Il s’agit de l’outil de travail principal du Product Owner qui se charge de recueillir les besoins auprès des parties prenantes et de les transformer en liste de fonctionnalités prêtes à être développées par l’équipe de développement. Communément **on peut formaliser ce items sous forme de *Users Stories*** |
 | Product owner | ou PO est le responsable de la définition et de la conception d’un produit. Expert de la méthodologie agile, il fait le lien entre la partie métier (bonne vision business) et la partie technique du projet. Il doit porter la vision du produit. Il est l’interface entre l’utilisateur, le Scrum Master et les équipes chargées du développement.|
+| Wireframe | Le wireframe ou maquette fonctionnelle est un **schéma utilisé lors de la conception d'une interface utilisateur pour définir les zones et composants qu'elle doit contenir.** À partir d'un wireframe peut être réalisée l'interface proprement dite par un graphiste. |
 
 ### POO 
 
