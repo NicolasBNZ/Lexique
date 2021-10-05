@@ -93,6 +93,7 @@
 | implémenter  | =mettre en oeuvre, développer, traduire en algorithme, fournir une fonctionnalité  |
 | assertion  |  Proposition que l'on avance comme vraie. |
 | Triangulation | Technique qui consiste à remplacer les exemples en dur dans le code (qui correspondent aux tests) par une implémentation plus générique |
+| La déstructuration | **L’affectation de déstructuration est une syntaxe qui vous permet d'affecter des propriétés d'objets ou des éléments de tableau comme variables.** Cela peut réduire considérablement les lignes de code nécessaires pour manipuler les données dans ces structures. Il existe deux types de déstructuration : Déstructuration d'objets et déstructuration des tableaux. |
 
 ### FRONT
 
