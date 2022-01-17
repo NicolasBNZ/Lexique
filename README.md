@@ -45,6 +45,8 @@
 | Test système / fonctionnel | **on teste la conformité du système.** Ex: test UI / IHM (intéraction homme machine), test de performance / benchmarck, test de charge... |
 | Test d'acceptation | **On teste le projet avec le client** pour s'assurer que tout soit conforme aux attentes / exigences |
 | TDD | Test driven dévelopment (= développement piloté par les tests), **les tests sont écrits avant le code et le code devra s'y confronter.** Avantages: à l'instant on sait que le code fonctionne, pas de code non testé dans l'application finie, on écrit uniquement le code dont on a besoin pour la fonctionnalité en cours, on définit les contours de l'application à l'avance en écrivant le test, maintenance facilitée car pas de code inutile. Inconvénients: impression de perte de temps, processus de développement peut paraitre pénible, spécifications pas toujours assez claires pour écrire le test avant.|
+| code coverage | la couverture de code est une mesure utilisée pour décrire le taux de code source d'un programme exécuté quand une suite de test est lancée. https://damien.pobel.fr/post/code-coverage-taux-couverture-tests/ |
+
 
 
 ### CONNAISSANCES DE BASE
